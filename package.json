@@ -1,0 +1,20 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "PacmanGame",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo \"no build required\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepperparade1980/Pacman.git"
+  },
+  "keywords": ["static", "template", "codesandbox"],
+  "author": "Some Rando",
+  "license": "Danny Devito Himself",
+  "bugs": {
+    "url": "https://github.com/pepperparade1980/Pacman"
+  },
+  "homepage": "https://github.com/pepperparade1980/Pacman"
+}
